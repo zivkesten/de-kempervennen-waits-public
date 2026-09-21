@@ -1,0 +1,337 @@
+{
+  "park": "toverland",
+  "source": "Queue-Times",
+  "sourceUrl": "https://queue-times.com/en-US/parks/305",
+  "sourceUpdated": "2026-09-21T20:20:23.000Z",
+  "fetchedAt": "2026-09-21T20:22:43.705Z",
+  "rides": [
+    {
+      "id": 9352,
+      "name": "Arthur’s Tournament Training",
+      "area": "Avalon",
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 12028,
+      "name": "Dragonwatch",
+      "area": "Avalon",
+      "open": false,
+      "waitMinutes": 0,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9327,
+      "name": "Fēnix",
+      "area": "Avalon",
+      "open": false,
+      "waitMinutes": 0,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 12029,
+      "name": "Garden Tour",
+      "area": "Avalon",
+      "open": false,
+      "waitMinutes": 0,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 12030,
+      "name": "Jumping Juna",
+      "area": "Avalon",
+      "open": false,
+      "waitMinutes": 0,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 12031,
+      "name": "Little Dragons",
+      "area": "Avalon",
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9328,
+      "name": "Merlin's Quest",
+      "area": "Avalon",
+      "open": false,
+      "waitMinutes": 0,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 12027,
+      "name": "Pixarus",
+      "area": "Avalon",
+      "open": false,
+      "waitMinutes": 0,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 12032,
+      "name": "Sparky's Splash Dock",
+      "area": "Avalon",
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 12033,
+      "name": "Waterdwarf Alley",
+      "area": "Avalon",
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9336,
+      "name": "Paarden van Ithaka",
+      "area": "Ithaka",
+      "open": false,
+      "waitMinutes": 0,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9337,
+      "name": "Scorpios",
+      "area": "Ithaka",
+      "open": false,
+      "waitMinutes": 0,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9338,
+      "name": "Troy",
+      "area": "Ithaka",
+      "open": false,
+      "waitMinutes": 0,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9351,
+      "name": "Djinn",
+      "area": "Land van Toos",
+      "open": false,
+      "waitMinutes": 0,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9344,
+      "name": "Drakenslangen",
+      "area": "Land van Toos",
+      "open": false,
+      "waitMinutes": 0,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9353,
+      "name": "Dwaalhof",
+      "area": "Land van Toos",
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9350,
+      "name": "Klokhuis",
+      "area": "Land van Toos",
+      "open": false,
+      "waitMinutes": 0,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 16248,
+      "name": "Morrels Truckjes",
+      "area": "Land van Toos",
+      "open": false,
+      "waitMinutes": 0,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9358,
+      "name": "Sim sa la Klim",
+      "area": "Land van Toos",
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 12035,
+      "name": "Speelkasteel",
+      "area": "Land van Toos",
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9347,
+      "name": "Theekopjes",
+      "area": "Land van Toos",
+      "open": false,
+      "waitMinutes": 0,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9345,
+      "name": "Toos-Express",
+      "area": "Land van Toos",
+      "open": false,
+      "waitMinutes": 0,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 12034,
+      "name": "Tovertuin",
+      "area": "Land van Toos",
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9349,
+      "name": "Villa Toverhoed",
+      "area": "Land van Toos",
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9348,
+      "name": "Vliegend Tapijt",
+      "area": "Land van Toos",
+      "open": false,
+      "waitMinutes": 0,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9334,
+      "name": "Booster Bike",
+      "area": "Magische Vallei",
+      "open": false,
+      "waitMinutes": 0,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9331,
+      "name": "Coco Bolo",
+      "area": "Magische Vallei",
+      "open": false,
+      "waitMinutes": 0,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9333,
+      "name": "Djengu River",
+      "area": "Magische Vallei",
+      "open": false,
+      "waitMinutes": 0,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9329,
+      "name": "Dwervelwind",
+      "area": "Magische Vallei",
+      "open": false,
+      "waitMinutes": 0,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9354,
+      "name": "Fort Boreas",
+      "area": "Magische Vallei",
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9332,
+      "name": "Tolly Molly",
+      "area": "Magische Vallei",
+      "open": false,
+      "waitMinutes": 0,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9330,
+      "name": "Waku Waku",
+      "area": "Magische Vallei",
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9335,
+      "name": "Exploria Magica",
+      "area": "Port Laguna",
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9340,
+      "name": "Alpenrutsche",
+      "area": "Wunderwald",
+      "open": false,
+      "waitMinutes": 0,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9339,
+      "name": "Expedition Zork",
+      "area": "Wunderwald",
+      "open": false,
+      "waitMinutes": 0,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9355,
+      "name": "Karussell",
+      "area": "Wunderwald",
+      "open": false,
+      "waitMinutes": 0,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9356,
+      "name": "Kletterabenteuer",
+      "area": "Wunderwald",
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9399,
+      "name": "Maximus' Wunderball",
+      "area": "Wunderwald",
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-15T06:30:14.000Z"
+    },
+    {
+      "id": 9343,
+      "name": "Villa Fiasko",
+      "area": "Wunderwald",
+      "open": false,
+      "waitMinutes": 0,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 9341,
+      "name": "Wirbelbaum",
+      "area": "Wunderwald",
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-21T20:20:23.000Z"
+    },
+    {
+      "id": 17777,
+      "name": "Maison de la Magie",
+      "area": null,
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-21T11:25:12.000Z"
+    }
+  ]
+}

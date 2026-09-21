@@ -1,0 +1,27 @@
+name: Refresh public park waits
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: park-waits
+  cancel-in-progress: true
+jobs:
+  refresh:
+    runs-on: ubuntu-slim
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node scripts/update.mjs
+      - name: Commit changed wait data
+        run: |
+          git config user.name 'park-waits-bot'
+          git config user.email 'park-waits-bot@users.noreply.github.com'
+          git add data/*.json
+          git diff --cached --quiet || git commit -m 'data: refresh park waits'
+          git push
