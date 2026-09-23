@@ -2,8 +2,8 @@
   "park": "toverland",
   "source": "Queue-Times",
   "sourceUrl": "https://queue-times.com/en-US/parks/305",
-  "sourceUpdated": "2026-09-21T20:20:23.000Z",
-  "fetchedAt": "2026-09-21T20:25:37.647Z",
+  "sourceUpdated": "2026-09-23T08:55:12.000Z",
+  "fetchedAt": "2026-09-23T08:58:07.084Z",
   "rides": [
     {
       "id": 9352,
@@ -11,23 +11,23 @@
       "area": "Avalon",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 12028,
       "name": "Dragonwatch",
       "area": "Avalon",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9327,
       "name": "Fēnix",
       "area": "Avalon",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 12029,
@@ -35,7 +35,7 @@
       "area": "Avalon",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 12030,
@@ -43,7 +43,7 @@
       "area": "Avalon",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 12031,
@@ -51,23 +51,23 @@
       "area": "Avalon",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9328,
       "name": "Merlin's Quest",
       "area": "Avalon",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 12027,
       "name": "Pixarus",
       "area": "Avalon",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "open": true,
+      "waitMinutes": 10,
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 12032,
@@ -75,7 +75,7 @@
       "area": "Avalon",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 12033,
@@ -83,47 +83,47 @@
       "area": "Avalon",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9336,
       "name": "Paarden van Ithaka",
       "area": "Ithaka",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9337,
       "name": "Scorpios",
       "area": "Ithaka",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9338,
       "name": "Troy",
       "area": "Ithaka",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "open": true,
+      "waitMinutes": 10,
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9351,
       "name": "Djinn",
       "area": "Land van Toos",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9344,
       "name": "Drakenslangen",
       "area": "Land van Toos",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9353,
@@ -131,7 +131,7 @@
       "area": "Land van Toos",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9350,
@@ -139,15 +139,15 @@
       "area": "Land van Toos",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 16248,
       "name": "Morrels Truckjes",
       "area": "Land van Toos",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9358,
@@ -155,7 +155,7 @@
       "area": "Land van Toos",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 12035,
@@ -163,15 +163,15 @@
       "area": "Land van Toos",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9347,
       "name": "Theekopjes",
       "area": "Land van Toos",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9345,
@@ -179,7 +179,7 @@
       "area": "Land van Toos",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 12034,
@@ -187,7 +187,7 @@
       "area": "Land van Toos",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9349,
@@ -195,7 +195,7 @@
       "area": "Land van Toos",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9348,
@@ -203,23 +203,23 @@
       "area": "Land van Toos",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9334,
       "name": "Booster Bike",
       "area": "Magische Vallei",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "open": true,
+      "waitMinutes": 15,
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9331,
       "name": "Coco Bolo",
       "area": "Magische Vallei",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9333,
@@ -227,7 +227,7 @@
       "area": "Magische Vallei",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9329,
@@ -235,7 +235,7 @@
       "area": "Magische Vallei",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9354,
@@ -243,15 +243,15 @@
       "area": "Magische Vallei",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9332,
       "name": "Tolly Molly",
       "area": "Magische Vallei",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9330,
@@ -259,7 +259,7 @@
       "area": "Magische Vallei",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9335,
@@ -267,7 +267,7 @@
       "area": "Port Laguna",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9340,
@@ -275,15 +275,15 @@
       "area": "Wunderwald",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9339,
       "name": "Expedition Zork",
       "area": "Wunderwald",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9355,
@@ -291,7 +291,7 @@
       "area": "Wunderwald",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9356,
@@ -299,23 +299,15 @@
       "area": "Wunderwald",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
-    },
-    {
-      "id": 9399,
-      "name": "Maximus' Wunderball",
-      "area": "Wunderwald",
-      "open": true,
-      "waitMinutes": 5,
-      "lastUpdated": "2026-09-15T06:30:14.000Z"
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9343,
       "name": "Villa Fiasko",
       "area": "Wunderwald",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 9341,
@@ -323,7 +315,7 @@
       "area": "Wunderwald",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-21T20:20:23.000Z"
+      "lastUpdated": "2026-09-23T08:55:12.000Z"
     },
     {
       "id": 17777,
