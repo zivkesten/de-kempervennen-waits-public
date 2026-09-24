@@ -1,0 +1,33 @@
+name: Refresh park waits
+on:
+  schedule:
+    # Every 5 minutes (UTC) during park hours on the park days only:
+    # Toverland Mon 28 Sep (07:00-16:55 UTC = 09:00-18:55 CEST),
+    # Phantasialand Thu 1 Oct (06:00-16:55 UTC = 08:00-18:55 CEST).
+    - cron: '*/5 7-16 28 9 *'
+    - cron: '*/5 6-16 1 10 *'
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: refresh-waits
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/update.mjs
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then echo "no change"; exit 0; fi
+          git commit -m "data: refresh park waits"
+          git pull --rebase -q origin main
+          git push origin main
