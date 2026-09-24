@@ -3,9 +3,9 @@ on:
   schedule:
     # Every 5 minutes (UTC) during park hours on the park days only:
     # Toverland Mon 28 Sep (07:00-16:55 UTC = 09:00-18:55 CEST),
-    # Phantasialand Thu 1 Oct (06:00-16:55 UTC = 08:00-18:55 CEST).
+    # Phantasialand Wed 30 Sep (06:00-16:55 UTC = 08:00-18:55 CEST).
     - cron: '*/5 7-16 28 9 *'
-    - cron: '*/5 6-16 1 10 *'
+    - cron: '*/5 6-16 30 9 *'
   workflow_dispatch: {}
 permissions:
   contents: write
