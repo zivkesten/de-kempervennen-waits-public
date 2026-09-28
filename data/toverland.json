@@ -2,8 +2,8 @@
   "park": "toverland",
   "source": "Queue-Times",
   "sourceUrl": "https://queue-times.com/en-US/parks/305",
-  "sourceUpdated": "2026-09-28T07:35:33.000Z",
-  "fetchedAt": "2026-09-28T07:37:59.820Z",
+  "sourceUpdated": "2026-09-28T08:05:14.000Z",
+  "fetchedAt": "2026-09-28T08:07:15.447Z",
   "rides": [
     {
       "id": 9352,
@@ -11,7 +11,7 @@
       "area": "Avalon",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 12028,
@@ -19,7 +19,7 @@
       "area": "Avalon",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9327,
@@ -27,7 +27,7 @@
       "area": "Avalon",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 12029,
@@ -35,7 +35,7 @@
       "area": "Avalon",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 12030,
@@ -43,7 +43,7 @@
       "area": "Avalon",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 12031,
@@ -51,15 +51,15 @@
       "area": "Avalon",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9328,
       "name": "Merlin's Quest",
       "area": "Avalon",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 12027,
@@ -67,7 +67,7 @@
       "area": "Avalon",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 12032,
@@ -75,7 +75,7 @@
       "area": "Avalon",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 12033,
@@ -83,7 +83,7 @@
       "area": "Avalon",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9336,
@@ -91,7 +91,7 @@
       "area": "Ithaka",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9337,
@@ -99,7 +99,7 @@
       "area": "Ithaka",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9338,
@@ -107,7 +107,7 @@
       "area": "Ithaka",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9351,
@@ -115,7 +115,7 @@
       "area": "Land van Toos",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9344,
@@ -123,7 +123,7 @@
       "area": "Land van Toos",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9353,
@@ -131,7 +131,7 @@
       "area": "Land van Toos",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9350,
@@ -139,7 +139,7 @@
       "area": "Land van Toos",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 16248,
@@ -147,7 +147,7 @@
       "area": "Land van Toos",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9358,
@@ -155,7 +155,7 @@
       "area": "Land van Toos",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 12035,
@@ -163,7 +163,7 @@
       "area": "Land van Toos",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9347,
@@ -171,7 +171,7 @@
       "area": "Land van Toos",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9345,
@@ -179,7 +179,7 @@
       "area": "Land van Toos",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 12034,
@@ -187,7 +187,7 @@
       "area": "Land van Toos",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9349,
@@ -195,7 +195,7 @@
       "area": "Land van Toos",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9348,
@@ -203,7 +203,7 @@
       "area": "Land van Toos",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9334,
@@ -211,7 +211,7 @@
       "area": "Magische Vallei",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9331,
@@ -219,7 +219,7 @@
       "area": "Magische Vallei",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9333,
@@ -227,7 +227,7 @@
       "area": "Magische Vallei",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9329,
@@ -235,7 +235,7 @@
       "area": "Magische Vallei",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9354,
@@ -243,7 +243,7 @@
       "area": "Magische Vallei",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9332,
@@ -251,7 +251,7 @@
       "area": "Magische Vallei",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9330,
@@ -259,7 +259,7 @@
       "area": "Magische Vallei",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9335,
@@ -267,7 +267,7 @@
       "area": "Port Laguna",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 17777,
@@ -283,7 +283,7 @@
       "area": "Wunderwald",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9339,
@@ -291,7 +291,7 @@
       "area": "Wunderwald",
       "open": true,
       "waitMinutes": 10,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9355,
@@ -299,7 +299,7 @@
       "area": "Wunderwald",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9356,
@@ -307,7 +307,7 @@
       "area": "Wunderwald",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9343,
@@ -315,7 +315,7 @@
       "area": "Wunderwald",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     },
     {
       "id": 9341,
@@ -323,7 +323,7 @@
       "area": "Wunderwald",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T07:35:33.000Z"
+      "lastUpdated": "2026-09-28T08:05:14.000Z"
     }
   ]
 }
