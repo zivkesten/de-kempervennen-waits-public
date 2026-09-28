@@ -2,8 +2,8 @@
   "park": "phantasialand",
   "source": "Queue-Times",
   "sourceUrl": "https://queue-times.com/en-US/parks/56",
-  "sourceUpdated": "2026-09-24T04:20:55.000Z",
-  "fetchedAt": "2026-09-24T04:22:59.944Z",
+  "sourceUpdated": "2026-09-28T07:36:18.000Z",
+  "fetchedAt": "2026-09-28T07:38:00.008Z",
   "rides": [
     {
       "id": 14376,
@@ -11,23 +11,23 @@
       "area": "Berlin",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6804,
       "name": "Bolles Flugschule",
       "area": "Berlin",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6809,
       "name": "Bolles Riesenrad",
       "area": "Berlin",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6829,
@@ -35,63 +35,63 @@
       "area": "Berlin",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6819,
       "name": "Maus au Chocolat",
       "area": "Berlin",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6816,
       "name": "Pferdekarussell",
       "area": "Berlin",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6824,
       "name": "Wellenflug",
       "area": "Berlin",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6820,
       "name": "Feng Ju Palace",
       "area": "China Town",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "open": true,
+      "waitMinutes": 10,
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6821,
       "name": "Geister Rikscha",
       "area": "China Town",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6825,
       "name": "Black Mamba",
       "area": "Deep in Africa",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "open": true,
+      "waitMinutes": 15,
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 10868,
       "name": "Deep in Africa – Adventure Trail",
       "area": "Deep in Africa",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6835,
@@ -99,7 +99,7 @@
       "area": "Fantasy",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6839,
@@ -107,7 +107,7 @@
       "area": "Fantasy",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 5820,
@@ -115,7 +115,7 @@
       "area": "Fantasy",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6833,
@@ -123,7 +123,7 @@
       "area": "Fantasy",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6834,
@@ -131,7 +131,7 @@
       "area": "Fantasy",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6831,
@@ -139,7 +139,7 @@
       "area": "Fantasy",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6843,
@@ -147,7 +147,7 @@
       "area": "Fantasy",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6828,
@@ -155,7 +155,7 @@
       "area": "Fantasy",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6830,
@@ -163,7 +163,7 @@
       "area": "Fantasy",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6836,
@@ -171,7 +171,7 @@
       "area": "Fantasy",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6840,
@@ -179,7 +179,7 @@
       "area": "Fantasy",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6837,
@@ -187,7 +187,7 @@
       "area": "Fantasy",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6841,
@@ -195,7 +195,7 @@
       "area": "Fantasy",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6832,
@@ -203,7 +203,7 @@
       "area": "Fantasy",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6814,
@@ -211,7 +211,7 @@
       "area": "Mexico",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 11815,
@@ -219,7 +219,7 @@
       "area": "Mexico",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6812,
@@ -227,15 +227,15 @@
       "area": "Mexico",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6813,
       "name": "Tikal",
       "area": "Mexico",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6807,
@@ -243,7 +243,7 @@
       "area": "Mystery",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6806,
@@ -251,7 +251,7 @@
       "area": "Mystery",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6808,
@@ -259,7 +259,7 @@
       "area": "Mystery",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 6805,
@@ -267,7 +267,7 @@
       "area": "Mystery",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     },
     {
       "id": 8236,
@@ -275,7 +275,7 @@
       "area": "Rookburgh",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-24T04:20:55.000Z"
+      "lastUpdated": "2026-09-28T07:36:18.000Z"
     }
   ]
 }
