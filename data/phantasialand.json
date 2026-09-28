@@ -2,8 +2,8 @@
   "park": "phantasialand",
   "source": "Queue-Times",
   "sourceUrl": "https://queue-times.com/en-US/parks/56",
-  "sourceUpdated": "2026-09-28T08:06:04.000Z",
-  "fetchedAt": "2026-09-28T08:07:15.544Z",
+  "sourceUpdated": "2026-09-28T14:55:54.000Z",
+  "fetchedAt": "2026-09-28T14:58:54.254Z",
   "rides": [
     {
       "id": 14376,
@@ -11,7 +11,7 @@
       "area": "Berlin",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6804,
@@ -19,7 +19,7 @@
       "area": "Berlin",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6809,
@@ -27,7 +27,7 @@
       "area": "Berlin",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6829,
@@ -35,7 +35,7 @@
       "area": "Berlin",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6819,
@@ -43,7 +43,7 @@
       "area": "Berlin",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6816,
@@ -51,7 +51,7 @@
       "area": "Berlin",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6824,
@@ -59,7 +59,7 @@
       "area": "Berlin",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6820,
@@ -67,7 +67,7 @@
       "area": "China Town",
       "open": true,
       "waitMinutes": 10,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6821,
@@ -75,15 +75,15 @@
       "area": "China Town",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6825,
       "name": "Black Mamba",
       "area": "Deep in Africa",
       "open": true,
-      "waitMinutes": 10,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 10868,
@@ -91,7 +91,7 @@
       "area": "Deep in Africa",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6835,
@@ -99,87 +99,87 @@
       "area": "Fantasy",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6839,
       "name": "Bumper Klumpen",
       "area": "Fantasy",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 5820,
       "name": "Crazy Bats",
       "area": "Fantasy",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "open": true,
+      "waitMinutes": 25,
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6833,
       "name": "Der lustige Papagei",
       "area": "Fantasy",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6834,
       "name": "Die fröhliche Bienchenjagd",
       "area": "Fantasy",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6831,
       "name": "Tittle Tattle Tree",
       "area": "Fantasy",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6843,
       "name": "Wakobato",
       "area": "Fantasy",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "open": true,
+      "waitMinutes": 10,
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6828,
       "name": "Winja‘s Fear",
       "area": "Fantasy",
       "open": true,
-      "waitMinutes": 20,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "waitMinutes": 10,
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6830,
       "name": "Winja‘s Force",
       "area": "Fantasy",
       "open": true,
-      "waitMinutes": 20,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "waitMinutes": 10,
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6836,
       "name": "Wirtl‘s Taubenturm",
       "area": "Fantasy",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6840,
       "name": "Wözl‘s Duck Washer",
       "area": "Fantasy",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6837,
@@ -187,47 +187,47 @@
       "area": "Fantasy",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6841,
       "name": "Wupi‘s Wabi Wipper",
       "area": "Fantasy",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6832,
       "name": "Würmling Express",
       "area": "Fantasy",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6814,
       "name": "Chiapas - DIE Wasserbahn",
       "area": "Mexico",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 11815,
       "name": "Colorado Adventure",
       "area": "Mexico",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6812,
       "name": "Talocan",
       "area": "Mexico",
       "open": true,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6813,
@@ -235,47 +235,47 @@
       "area": "Mexico",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6807,
       "name": "Mystery Castle",
       "area": "Mystery",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6806,
       "name": "Raik",
       "area": "Mystery",
       "open": true,
-      "waitMinutes": 15,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6808,
       "name": "River Quest",
       "area": "Mystery",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 6805,
       "name": "Taron",
       "area": "Mystery",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "open": true,
+      "waitMinutes": 10,
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     },
     {
       "id": 8236,
       "name": "F.L.Y.",
       "area": "Rookburgh",
       "open": true,
-      "waitMinutes": 15,
-      "lastUpdated": "2026-09-28T08:06:04.000Z"
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-28T14:55:54.000Z"
     }
   ]
 }
