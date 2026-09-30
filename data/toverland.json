@@ -2,8 +2,8 @@
   "park": "toverland",
   "source": "Queue-Times",
   "sourceUrl": "https://queue-times.com/en-US/parks/305",
-  "sourceUpdated": "2026-09-28T21:10:20.000Z",
-  "fetchedAt": "2026-09-28T21:11:30.230Z",
+  "sourceUpdated": "2026-09-30T12:15:20.000Z",
+  "fetchedAt": "2026-09-30T12:19:45.438Z",
   "rides": [
     {
       "id": 9352,
@@ -11,31 +11,31 @@
       "area": "Avalon",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 12028,
       "name": "Dragonwatch",
       "area": "Avalon",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9327,
       "name": "Fēnix",
       "area": "Avalon",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 12029,
       "name": "Garden Tour",
       "area": "Avalon",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 12030,
@@ -43,7 +43,7 @@
       "area": "Avalon",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 12031,
@@ -51,23 +51,23 @@
       "area": "Avalon",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9328,
       "name": "Merlin's Quest",
       "area": "Avalon",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 12027,
       "name": "Pixarus",
       "area": "Avalon",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 12032,
@@ -75,7 +75,7 @@
       "area": "Avalon",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 12033,
@@ -83,7 +83,7 @@
       "area": "Avalon",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9336,
@@ -91,7 +91,7 @@
       "area": "Ithaka",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9337,
@@ -99,31 +99,31 @@
       "area": "Ithaka",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9338,
       "name": "Troy",
       "area": "Ithaka",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9351,
       "name": "Djinn",
       "area": "Land van Toos",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9344,
       "name": "Drakenslangen",
       "area": "Land van Toos",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9353,
@@ -131,7 +131,7 @@
       "area": "Land van Toos",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9350,
@@ -139,15 +139,15 @@
       "area": "Land van Toos",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 16248,
       "name": "Morrels Truckjes",
       "area": "Land van Toos",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9358,
@@ -155,7 +155,7 @@
       "area": "Land van Toos",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 12035,
@@ -163,23 +163,23 @@
       "area": "Land van Toos",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9347,
       "name": "Theekopjes",
       "area": "Land van Toos",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9345,
       "name": "Toos-Express",
       "area": "Land van Toos",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 12034,
@@ -187,7 +187,7 @@
       "area": "Land van Toos",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9349,
@@ -195,7 +195,7 @@
       "area": "Land van Toos",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9348,
@@ -203,15 +203,15 @@
       "area": "Land van Toos",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9334,
       "name": "Booster Bike",
       "area": "Magische Vallei",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9331,
@@ -219,7 +219,7 @@
       "area": "Magische Vallei",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9333,
@@ -227,15 +227,15 @@
       "area": "Magische Vallei",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9329,
       "name": "Dwervelwind",
       "area": "Magische Vallei",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9354,
@@ -243,7 +243,7 @@
       "area": "Magische Vallei",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9332,
@@ -251,7 +251,7 @@
       "area": "Magische Vallei",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9330,
@@ -259,7 +259,7 @@
       "area": "Magische Vallei",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9335,
@@ -267,7 +267,7 @@
       "area": "Port Laguna",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9340,
@@ -275,15 +275,15 @@
       "area": "Wunderwald",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9339,
       "name": "Expedition Zork",
       "area": "Wunderwald",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "open": true,
+      "waitMinutes": 10,
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9355,
@@ -291,7 +291,7 @@
       "area": "Wunderwald",
       "open": false,
       "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9356,
@@ -299,15 +299,15 @@
       "area": "Wunderwald",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9343,
       "name": "Villa Fiasko",
       "area": "Wunderwald",
-      "open": false,
-      "waitMinutes": 0,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "open": true,
+      "waitMinutes": 5,
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     },
     {
       "id": 9341,
@@ -315,7 +315,7 @@
       "area": "Wunderwald",
       "open": true,
       "waitMinutes": 5,
-      "lastUpdated": "2026-09-28T21:10:20.000Z"
+      "lastUpdated": "2026-09-30T12:15:20.000Z"
     }
   ]
 }
